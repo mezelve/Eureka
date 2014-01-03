@@ -42,6 +42,6 @@ I modified the Arcade button. I replaced the Led and its resistor (a 100ohm one)
 ![almost assembled](/docs/images/eureka_03.jpg?raw=true)
 
 #### Case
-I've order a laser cut 3mm plywood case at [Formulor](http://www.formulor.de). You can find the SVG files in the hardware/case folder. Make sure to check the dimentions of your switch and its mounting holes.
+I've order a laser cut 3mm plywood case at [Formulor](http://www.formulor.de). You can find the SVG files in the hardware/case folder. Make sure to check the dimensions of your switch and its mounting holes.
 
 ![the laser cut parts](/docs/images/eureka_01.jpg?raw=true)
