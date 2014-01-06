@@ -1,5 +1,5 @@
 # Eureka 
-An #IoT button powered by an [Electric Imp](http://www.electricimp.com "Electric Imp").
+An Internet of Things button powered by an [Electric Imp](http://www.electricimp.com "Electric Imp").
 
 ![the Eureka button](/docs/images/eureka_04.jpg?raw=true)
 
@@ -8,7 +8,7 @@ Each time I have a good idea, I'll press the Eureka button. A random precomposed
 ---
 
 ### Software
-The Electric Imp system has (mostly) 2 scripts. One that runs on the device itself and one that runs on a server in the cloud - called the agent. The first one is basicalty there to interact with the IO pins, the 2nd one can send and receive data from/to the Imp and interact with other webservices like Twitter and Xively.
+The Electric Imp system has 2 scripts. One that runs on the device itself and one that runs on a server in the cloud - called the agent. The first one is basicalty there to interact with the IO pins, the 2nd one can send and receive data from/to the Imp and interact with other webservices like Twitter and Xively.
 
 #### Agent code
 Here I've used the 2 classes for Twitter and Xively (MIT license) provided by Electric Imp.
