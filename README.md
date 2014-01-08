@@ -1,7 +1,7 @@
 # Eureka 
 An Internet of Things button powered by an [Electric Imp](http://www.electricimp.com "Electric Imp").
 
-![the Eureka button](/docs/images/eureka_04.jpg?raw=true)
+![the Eureka button](https://raw.github.com/mezelve/eureka/gh-pages/media/eureka_04.jpg)
 
 Each time I have a good idea, I'll press the Eureka button. A random precomposed tweet will be twittered by [@yoo_ree_kuh](http://www.twitter.com/yoo_ree_kuh) to capture this precious moment. At the same time a counter at [Xively](http://www.xively.com) gets updated, this data can/will be used later.
 
@@ -35,13 +35,13 @@ The button is connected to pin 1, which is the wakeup pin. This means that the E
 
 I modified the Arcade button. I replaced the Led and its resistor (a 100ohm one).
 
-![Fritzing](/hardware/fritzing/eureka.jpg?raw=true)
+![Fritzing](https://raw.github.com/mezelve/eureka/gh-pages/media/eureka.jpg)
 
-![the main parts](/docs/images/eureka_02.jpg?raw=true)
+![the main parts](https://raw.github.com/mezelve/eureka/gh-pages/media/eureka_02.jpg)
 
-![almost assembled](/docs/images/eureka_03.jpg?raw=true)
+![almost assembled](https://raw.github.com/mezelve/eureka/gh-pages/media/eureka_03.jpg)
 
 #### Case
 I've order a laser cut 3mm plywood case at [Formulor](http://www.formulor.de). You can find the SVG files in the hardware/case folder. Make sure to check the dimensions of your switch and its mounting holes.
 
-![the laser cut parts](/docs/images/eureka_01.jpg?raw=true)
+![the laser cut parts](https://raw.github.com/mezelve/eureka/gh-pages/media/eureka_01.jpg)
